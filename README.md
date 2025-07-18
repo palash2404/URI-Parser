@@ -154,9 +154,6 @@ The parser returns `null` for invalid URIs rather than throwing exceptions, allo
 - Java 8 or higher
 - JUnit for running tests
 
-## License
-
-This project is available under the MIT License.
 
 ## Contributing
 
